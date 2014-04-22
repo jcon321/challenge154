@@ -1,3 +1,5 @@
+http://www.reddit.com/r/dailyprogrammer/comments/21kqjq/4282014_challenge_154_hard_wumpus_cave_game/
+
 Description:
 
 Across the land the people whisper "Beware the Wumpus. For it slumbers in the cave up yonder in the hills. Only the brave seek him."
